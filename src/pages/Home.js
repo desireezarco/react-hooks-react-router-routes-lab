@@ -1,3 +1,4 @@
+import React from 'react';
 import { movies } from "../data";
 import MovieCard from "../components/MovieCard";
 import NavBar from "../components/NavBar"

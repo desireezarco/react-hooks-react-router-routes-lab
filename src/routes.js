@@ -1,8 +1,8 @@
 import Home from "./pages/Home";
-import Movie from "./pages/Movie";
-import Directors from "./pages/Directors";
-import Actors from "./pages/Actors";
 import ErrorPage from "./pages/ErrorPage";
+import Movie from "./pages/Movie";
+import Actors from "./pages/Actors";
+import Directors from "./pages/Directors";
 
 const routes = [
     {
